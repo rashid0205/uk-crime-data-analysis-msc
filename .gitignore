@@ -207,4 +207,7 @@ marimo/_lsp/
 __marimo__/
 raw/
 *.zip
+*.csv
+!data/sample_crime_data.csv
+
 
